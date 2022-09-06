@@ -17,8 +17,8 @@
 | W + T | cycle through apps on the taskbar |
 | W - E | open file explorer |
 | W + G | open windows game bar |
-| W + Ctrl + S | take a screenshot using Snipping Tool |
+| W + Shift + S | take a screenshot using Snipping Tool |
 
 
 
-
+snippers

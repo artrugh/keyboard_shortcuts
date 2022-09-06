@@ -10,3 +10,4 @@
 | Ctrl + R | reflesh a tab |
 | Ctrl + Shift + T | restart closed tabs |
 | Ctrl + L | select the search bar |
+| Ctrl + Shift + O | select the bookmark manager | 

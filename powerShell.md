@@ -1,6 +1,6 @@
 ## Command Line on Windows Terminal
 
-| keys | description |
+| cli | description |
 | --- | --- |
 | dir | directory |
 | del | delete |
